@@ -30,7 +30,7 @@
     q{  
         <img 
             src="#{discoverEgypt}"
-            width="600px"
+            width="480px"
             style="border-radius:6px;border:1px solid #AAA"
         >
         <h1>It's time to learn about Egypt</h1>
