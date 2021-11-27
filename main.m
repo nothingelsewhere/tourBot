@@ -13,6 +13,13 @@ include ./topics/uiux.m
 
 include ./topics/bad-language.m
 
+\ Find out more
+include ./topics/discover-egypt.m
+include ./topics/tips-for-travellers.m
+include ./topics/nile-tour.m
+include ./topics/pyramid-tour.m
+include ./topics/temple-tour.m
+
 \ Quiz 
 include ./topics/quiz-helper.m
 include ./topics/questions.m
@@ -86,8 +93,8 @@ idk: I don't understand the question.
   
   \ You can limit the number of responses displayed in the chatbot window
   \ think of the speech bubbles in whatsapp between friends
-  \ limit to "3" maximum bubbles
-  limit: 5
+  \ limit to "8" maximum bubbles
+  limit: 8
   
   \ Optional properties of the "send" button.
   \ Here's a sample from flaticon.com
