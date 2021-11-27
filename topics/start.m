@@ -18,7 +18,7 @@
     q{  
         <img 
             src="#{url}"
-            width="600px"
+            width="480px"
             style="border-radius:6px;border:1px solid #AAA"
         >
         <h1>Magical Egypt Tours</h1>
