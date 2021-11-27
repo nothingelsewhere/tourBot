@@ -23,6 +23,9 @@
 \ wherever there's input of "Book"
 : booking? ( "s" -- f ) "Book" indexof 0 >= ; 
 
+\ boolean test for text of "Back to Main Menu"
+: mainMenu? ( "s" -- f ) "Back to Main Menu" indexof 0 >= ;
+
 : button ( "s" -- "s" ) 
     \ idiomatic way to write this function
     \ "dup" means duplicating the variable, which was passed as an argument
@@ -30,8 +33,11 @@
     \ with duplicated variable, test with "booking?" 
     \ if true, then highlight
     \ else, normal
-    dup booking? -> button-highlighted exit |.
+    dup booking? -> button-highlighted exit |
+    \ highlight buttons that are "Back to Main Menu"
+    dup mainMenu? -> button-highlighted exit |.
     button-normal
+    
 ;
 
 \ function takes a sequence and returns a string
