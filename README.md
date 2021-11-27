@@ -10,6 +10,6 @@
 # Creators
 1. [kyyeo](https://github.com/kyyeo)
 2. Nana
-3. Chloe
+3. [Chloe](https://github.com/Khloeli/)
 4. Han
 5. Ethan
