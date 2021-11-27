@@ -11,5 +11,4 @@
 1. [kyyeo](https://github.com/kyyeo)
 2. Nana
 3. [Chloe](https://github.com/Khloeli/)
-4. Han
-5. Ethan
+4. Ethan
