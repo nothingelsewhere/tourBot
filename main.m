@@ -89,12 +89,12 @@ idk: I don't understand the question.
   bubble-font-size: 14
   
   \ Max Width of bot bubble, in pixels
-  bot-bubble-width: 600
+  bot-bubble-width: 480
   
   \ You can limit the number of responses displayed in the chatbot window
   \ think of the speech bubbles in whatsapp between friends
-  \ limit to "8" maximum bubbles
-  limit: 8
+  \ limit to "5" maximum bubbles
+  limit: 5
   
   \ Optional properties of the "send" button.
   \ Here's a sample from flaticon.com
