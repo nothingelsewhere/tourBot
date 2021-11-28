@@ -38,7 +38,7 @@ K: $clear
 \ keep all the responses here
 room: pyramidKey
     Q: Pyramids of Giza
-    MM https://as2.ftcdn.net/v2/jpg/00/52/49/69/500_F_52496925_OU0D232rBnVvC2tQOIoOZICogm8RwhpA.jpg
+    MM https://as2.ftcdn.net/v2/jpg/01/88/96/13/500_F_188961396_0E2rfESXuSGIppetXBkNKgDldxPpOvyF.jpg
     MM <b>Pyramids of Giza</b> <br>
     MM The designations of the pyramids (Khufu, Khafre, and Menkaure) correspond to the kings for whom they were built for. 
     M. ${ pyramid-menu }
